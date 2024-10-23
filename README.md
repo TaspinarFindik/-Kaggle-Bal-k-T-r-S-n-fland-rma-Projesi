@@ -1,2 +1,2 @@
-# -Kaggle-Bal-k-T-r-S-n-fland-rma-Projesi
+# -Kaggle-Balik-Tur-Siniflandirma-Projesi
 Kaggle Balık Türü Sınıflandırma Projesi
